@@ -17,6 +17,7 @@
 		text-align: justify;
 		margin-top: 50px;
         margin-right: 10px;
+        margin-left: 10px;
 	}
 
     .center{
@@ -169,7 +170,7 @@
 
 @media (max-width: 767px) {
   .col-sd-9{
-    float:left;
+    float:none;
     border: 3px solid black;
     width:75%;
     margin-bottom:1%;
